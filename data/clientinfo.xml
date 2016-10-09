@@ -1,0 +1,31 @@
+	<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	
+	<servicetype>thai</servicetype>
+	<servertype>primary</servertype>
+	<extendedslot></extendedslot>
+        
+	<desc>Ragnarok Client Information - Thai Version</desc>	
+	<viewhomepage>http://ro.openkore.in</viewhomepage>
+	
+	<connection>
+		<display>OpenKore Ragnarok</display>
+		<subconnection>
+			<display>Revo Classic</display>
+			<balloon>Osiris, Baphomet</balloon>
+			<desc>None</desc>
+			<address>opkro.openkore.in</address>
+			<port>1911</port>
+			<version>24</version>
+			<langtype>5</langtype>
+			<registrationweb>http://openkore.in</registrationweb>
+			<aid>
+				<admin>100006</admin>			
+			</aid>
+			<loading>
+				<image>loadingscreen01.jpg</image>
+			</loading>
+		</subconnection>		
+	</connection>
+</clientinfo>
